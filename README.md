@@ -29,5 +29,5 @@ Some of my repos in github just for fun:
 Some historical projects not in github:
 
 - [Apache Harmony](https://harmony.apache.org): An almost complete Java implementation where I led the JVM (DRLVM) design and implementation.
-- [Open Runtime Platform](https://orp.sourceforge.net/): A JVM research prototype and the original reference of DRLVM.
+- [Open Runtime Platform](https://orp.sourceforge.net/): A JVM research prototype I participated in, which was the original reference of DRLVM.
 - [Mini-JVM](https://github.com/2015xli/mini-jvm): A minimal JVM imeplementation that I wrote on a winter vacation many years ago.
